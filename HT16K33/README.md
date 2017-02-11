@@ -22,6 +22,8 @@ https://cdn-shop.adafruit.com/datasheets/ht16K33v110.pdf
 
 ## How to construct circuit
 
+<img src="./8x8BiColorLEC.png" />
+
 Japanese
 
 
