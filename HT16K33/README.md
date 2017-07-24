@@ -1,5 +1,10 @@
 Please see also: https://github.com/club-wot/WebGPIO
 
+## After CMN2015-1_B2GOS-20170301, Please refer to
+
+https://github.com/masahirokakishita/Chirimen/tree/master/HT16K33-n
+
+
 ## Use settings
 
  1. setup
