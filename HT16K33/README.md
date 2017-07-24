@@ -16,6 +16,8 @@ bower install
 
  2. deployment to chirimen
 
+CMN2015-1_B2GOS-20160808
+
  3. enjoy HT16K33 (LED Backpack)
 
 HT16K33 specification sheet<br>
