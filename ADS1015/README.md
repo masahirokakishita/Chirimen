@@ -18,7 +18,7 @@ bower install
 
 CMN2015-1_B2GOS-20170301
 
- 3. enjoy ADS1015 (12Bit 4CH AD Converter)&br;
+ 3. enjoy ADS1015 (12Bit 4CH AD Converter)<br>
 https://www.switch-science.com/catalog/1136/
 
 ## How to construct circuit
