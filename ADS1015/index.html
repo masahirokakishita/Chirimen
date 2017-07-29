@@ -1,0 +1,54 @@
+<!doctype html>
+
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+		<title>ADS1015</title>
+		<script src="./js/webi2c.js"></script>
+		<script src="./js/webgpio.js"></script>
+		<script src="./js/ADS1015.js"></script>
+		<script src="./js/drawgraph.js"></script>
+		<script src="./js/audioset.js"></script>
+		<script src="./js/gpiotest.js"></script>
+
+		<style type="text/css">
+		#bkg1 {
+			position:absolute;
+			background-color:#222;
+			margin: 0 auto;
+			top: 0px; left: 0px;
+			z-index: 100;
+		}
+		#bkg2 {
+			position:absolute;
+			margin: 0 auto;
+			top: 0px; left: 0px;
+			z-index: 200;
+		}
+		#bkg3 {
+			position:absolute;
+			margin: 0 auto;
+			top: 0px; left: 0px;
+			z-index: 300;
+		}
+		#bkg4 {
+			position:absolute;
+			margin: 0 auto;
+			top: 0px; left: 0px;
+			z-index: 400;
+		}
+		</style>
+
+	</head>
+
+<body bgcolor="#222222">
+
+<div id="canvas"><canvas id="bkg1"></canvas>
+<div id="canvas"><canvas id="bkg2"></canvas>
+<div id="canvas"><canvas id="bkg3"></canvas>
+<div id="canvas"><canvas id="bkg4"></canvas>
+
+</center>
+</body>
+</html>
